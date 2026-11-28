@@ -1,6 +1,6 @@
 ---
 slug: six-ai-agents-compared-for-real-work
-title: "9 AI Agents Compared for Real Work: Memory and Permissions"
+title: "9 Safest, Most Secure, and Permission-Aware AI Agents for Real-World Tasks"
 description: "Nine AI agents compared on memory, where they run, what they can touch, scheduling, permissions, model choice and price."
 authors: [tashiriskhan]
 tags: [engineering, product, ai-agents, ai-agent-comparison, self-hosted-ai, ai-agent-memory]
